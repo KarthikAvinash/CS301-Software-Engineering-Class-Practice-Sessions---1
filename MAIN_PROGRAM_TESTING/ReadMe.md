@@ -1,0 +1,1 @@
+The code provided consists of several classes, each with their own methods and functionality. Writing a test script to test the interactions between these classes and their methods would be considered integration testing. Integration testing verifies that the different components of a system work together as expected.
