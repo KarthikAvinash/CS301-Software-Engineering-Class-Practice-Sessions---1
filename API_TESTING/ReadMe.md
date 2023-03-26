@@ -1,0 +1,3 @@
+Testing all endpoints of an API typically falls under integration testing because it involves testing how multiple components of the system interact with each other. Integration testing aims to verify that different modules or components of a system work together correctly and that the integration of these components is successful.
+
+Unit testing, on the other hand, involves testing individual units or components of the software in isolation from the rest of the system. Unit tests are typically automated and designed to test the smallest possible piece of code, such as a single function or method, to ensure that it works as expected.
